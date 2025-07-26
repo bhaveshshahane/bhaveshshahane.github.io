@@ -35,6 +35,6 @@ Hi, I’m **Bhavesh Shahane**, a passionate **Full Stack Developer** with expert
 ## 📂 **How to Run This Project Locally**
 ```bash
 # Clone this repository
-git clone https://github.com/bhaveshshahane/portfolio.github.io.git
+git clone https://github.com/bhaveshshahane/bhaveshshahane.github.io.git
 
 # Open index.html in your browser
