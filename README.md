@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This site showcases my projects, skills, and achievements as a **Full Stack Developer**.
 
-**🌐 Live Website:** [bhaveshshahane.github.io/portfolio/](https://bhaveshshahane.github.io/portfolio/)
+**🌐 Live Website:** [bhaveshshahane.github.io](https://bhaveshshahane.github.io)
 
 ---
 
